@@ -1,0 +1,7 @@
+{
+  "name": "GramSetu",
+  "description": "A centralized dashboard and AI-powered assistant to bridge the digital divide in rural communities, facilitating digital literacy, service access, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
